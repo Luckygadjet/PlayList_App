@@ -2,7 +2,9 @@ import java.util.LinkedList;
 import java.util.ListIterator;
 import java.util.Scanner;
 
-public class Main {
+public class Main {    // git add .
+                       // git commit -m "First Attempt of Backend Assighnment"
+                        // git push -u origin main
     public static void main(String[] args) {
 
         Album album1 = new Album("Sarkar","Thaman");
